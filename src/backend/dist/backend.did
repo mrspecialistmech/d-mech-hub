@@ -1,0 +1,33 @@
+type Testimonial = 
+ record {
+   clientName: text;
+   company: text;
+   rating: nat;
+   testimonialText: text;
+ };
+type Project = 
+ record {
+   category: text;
+   description: text;
+   imageUrl: text;
+   title: text;
+ };
+type Enquiry = 
+ record {
+   company: text;
+   email: text;
+   id: nat;
+   message: text;
+   name: text;
+   phone: text;
+   serviceType: text;
+   timestamp: int;
+ };
+service : {
+  getAllEnquiries: () -> (vec Enquiry) query;
+  getAllProjects: () -> (vec Project) query;
+  getAllTestimonials: () -> (vec Testimonial) query;
+  getEnquiryById: (id: nat) -> (Enquiry) query;
+  submitEnquiry: (name: text, company: text, email: text, phone: text,
+   serviceType: text, message: text) -> (nat);
+}
