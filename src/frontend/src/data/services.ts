@@ -22,6 +22,12 @@ export const services: Service[] = [
     fileFormats: ["STEP", "IGES", "DXF", "DWG", "PDF", "SLDPRT"],
     software: ["SolidWorks", "CATIA V5", "Autodesk Fusion 360", "AutoCAD"],
     standards: ["ISO 2768", "ASME Y14.5", "DIN", "BS 8888"],
+    images: [
+      "https://picsum.photos/seed/cad1/800/600",
+      "https://picsum.photos/seed/cad2/800/600",
+      "https://picsum.photos/seed/cad3/800/600",
+      "https://picsum.photos/seed/cad4/800/600",
+    ],
   },
   {
     id: "s2",
@@ -44,6 +50,12 @@ export const services: Service[] = [
     fileFormats: ["STL", "OBJ", "3MF", "STEP"],
     software: ["SolidWorks", "Cura", "PrusaSlicer", "Chitubox"],
     standards: ["ISO 17296", "ASTM F2792"],
+    images: [
+      "https://picsum.photos/seed/prnt1/800/600",
+      "https://picsum.photos/seed/prnt2/800/600",
+      "https://picsum.photos/seed/prnt3/800/600",
+      "https://picsum.photos/seed/prnt4/800/600",
+    ],
   },
   {
     id: "s3",
@@ -66,6 +78,12 @@ export const services: Service[] = [
     fileFormats: ["DXF", "DWG", "STEP", "PDF", "SLDPRT"],
     software: ["SolidWorks", "SolidEdge", "AutoCAD"],
     standards: ["ISO 2768", "DIN 6935", "ASME Y14.5"],
+    images: [
+      "https://picsum.photos/seed/smt1/800/600",
+      "https://picsum.photos/seed/smt2/800/600",
+      "https://picsum.photos/seed/smt3/800/600",
+      "https://picsum.photos/seed/smt4/800/600",
+    ],
   },
   {
     id: "s4",
@@ -88,6 +106,12 @@ export const services: Service[] = [
     fileFormats: ["STEP", "PDF", "DXF", "IGES", "Rendering files"],
     software: ["SolidWorks", "CATIA V5", "KeyShot", "Adobe CC"],
     standards: ["ISO 9001", "DFM best practices", "IEC standards"],
+    images: [
+      "https://picsum.photos/seed/npd1/800/600",
+      "https://picsum.photos/seed/npd2/800/600",
+      "https://picsum.photos/seed/npd3/800/600",
+      "https://picsum.photos/seed/npd4/800/600",
+    ],
   },
   {
     id: "s5",
@@ -110,6 +134,12 @@ export const services: Service[] = [
     fileFormats: ["STEP", "IGES", "STL", "Point cloud data", "PDF report"],
     software: ["Geomagic", "SolidWorks", "CATIA", "Polyworks"],
     standards: ["ISO 10360", "ASME Y14.45"],
+    images: [
+      "https://picsum.photos/seed/re1/800/600",
+      "https://picsum.photos/seed/re2/800/600",
+      "https://picsum.photos/seed/re3/800/600",
+      "https://picsum.photos/seed/re4/800/600",
+    ],
   },
   {
     id: "s6",
@@ -132,6 +162,12 @@ export const services: Service[] = [
     fileFormats: ["PDF report", "STEP", "H5 result files"],
     software: ["ANSYS", "Abaqus", "SolidWorks Simulation", "OpenFOAM"],
     standards: ["ASME BPVC VIII", "PD 5500", "EN 13445", "ISO 31000"],
+    images: [
+      "https://picsum.photos/seed/fea1/800/600",
+      "https://picsum.photos/seed/fea2/800/600",
+      "https://picsum.photos/seed/fea3/800/600",
+      "https://picsum.photos/seed/fea4/800/600",
+    ],
   },
   {
     id: "s7",
@@ -154,6 +190,12 @@ export const services: Service[] = [
     fileFormats: ["PDF", "DXF", "DWG", "Excel inspection reports"],
     software: ["AutoCAD", "SolidWorks", "GD&T Advisor"],
     standards: ["ASME Y14.5-2018", "ISO 1101", "ISO 2768", "ISO 8015"],
+    images: [
+      "https://picsum.photos/seed/gdt1/800/600",
+      "https://picsum.photos/seed/gdt2/800/600",
+      "https://picsum.photos/seed/gdt3/800/600",
+      "https://picsum.photos/seed/gdt4/800/600",
+    ],
   },
 ];
 

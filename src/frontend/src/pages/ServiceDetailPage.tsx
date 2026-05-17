@@ -26,6 +26,7 @@ import {
   Wrench,
 } from "lucide-react";
 import { useRef, useState } from "react";
+import ImageGallery from "../components/ImageGallery";
 import { getServiceBySlug } from "../data/services";
 
 const iconMap: Record<
@@ -342,6 +343,19 @@ export default function ServiceDetailPage() {
           </div>
         </div>
       </section>
+
+      {/* ── Project Gallery ── */}
+      {service.images && service.images.length > 0 && (
+        <ImageGallery
+          images={service.images.map((src, i) => ({
+            src,
+            caption: `${service.name} — Project ${i + 1}`,
+          }))}
+          title="Project Gallery"
+          subtitle="Sample project images for this service"
+          variant="dark"
+        />
+      )}
 
       {/* ── What's Included ── */}
       <section

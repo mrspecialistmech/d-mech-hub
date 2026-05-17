@@ -23742,7 +23742,7 @@ const createLucideIcon = (iconName, iconNode) => {
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$M = [
+const __iconNode$P = [
   [
     "path",
     {
@@ -23751,36 +23751,36 @@ const __iconNode$M = [
     }
   ]
 ];
-const Activity = createLucideIcon("activity", __iconNode$M);
+const Activity = createLucideIcon("activity", __iconNode$P);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$L = [
+const __iconNode$O = [
   ["path", { d: "m12 19-7-7 7-7", key: "1l729n" }],
   ["path", { d: "M19 12H5", key: "x3x0zl" }]
 ];
-const ArrowLeft = createLucideIcon("arrow-left", __iconNode$L);
+const ArrowLeft = createLucideIcon("arrow-left", __iconNode$O);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$K = [
+const __iconNode$N = [
   ["path", { d: "M5 12h14", key: "1ays0h" }],
   ["path", { d: "m12 5 7 7-7 7", key: "xquz4c" }]
 ];
-const ArrowRight = createLucideIcon("arrow-right", __iconNode$K);
+const ArrowRight = createLucideIcon("arrow-right", __iconNode$N);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$J = [
+const __iconNode$M = [
   [
     "path",
     {
@@ -23790,14 +23790,14 @@ const __iconNode$J = [
   ],
   ["circle", { cx: "12", cy: "8", r: "6", key: "1vp47v" }]
 ];
-const Award = createLucideIcon("award", __iconNode$J);
+const Award = createLucideIcon("award", __iconNode$M);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$I = [
+const __iconNode$L = [
   ["path", { d: "M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z", key: "1b4qmf" }],
   ["path", { d: "M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2", key: "i71pzd" }],
   ["path", { d: "M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2", key: "10jefs" }],
@@ -23806,39 +23806,69 @@ const __iconNode$I = [
   ["path", { d: "M10 14h4", key: "kelpxr" }],
   ["path", { d: "M10 18h4", key: "1ulq68" }]
 ];
-const Building2 = createLucideIcon("building-2", __iconNode$I);
+const Building2 = createLucideIcon("building-2", __iconNode$L);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$H = [["path", { d: "M20 6 9 17l-5-5", key: "1gmf2c" }]];
-const Check = createLucideIcon("check", __iconNode$H);
+const __iconNode$K = [["path", { d: "M20 6 9 17l-5-5", key: "1gmf2c" }]];
+const Check = createLucideIcon("check", __iconNode$K);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$G = [["path", { d: "m6 9 6 6 6-6", key: "qrunsl" }]];
-const ChevronDown = createLucideIcon("chevron-down", __iconNode$G);
+const __iconNode$J = [["path", { d: "m6 9 6 6 6-6", key: "qrunsl" }]];
+const ChevronDown = createLucideIcon("chevron-down", __iconNode$J);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$F = [["path", { d: "m9 18 6-6-6-6", key: "mthhwq" }]];
-const ChevronRight = createLucideIcon("chevron-right", __iconNode$F);
+const __iconNode$I = [["path", { d: "m15 18-6-6 6-6", key: "1wnfg3" }]];
+const ChevronLeft = createLucideIcon("chevron-left", __iconNode$I);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$E = [["path", { d: "m18 15-6-6-6 6", key: "153udz" }]];
-const ChevronUp = createLucideIcon("chevron-up", __iconNode$E);
+const __iconNode$H = [["path", { d: "m9 18 6-6-6-6", key: "mthhwq" }]];
+const ChevronRight = createLucideIcon("chevron-right", __iconNode$H);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$G = [["path", { d: "m18 15-6-6-6 6", key: "153udz" }]];
+const ChevronUp = createLucideIcon("chevron-up", __iconNode$G);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$F = [
+  ["path", { d: "M21.801 10A10 10 0 1 1 17 3.335", key: "yps3ct" }],
+  ["path", { d: "m9 11 3 3L22 4", key: "1pflzl" }]
+];
+const CircleCheckBig = createLucideIcon("circle-check-big", __iconNode$F);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$E = [
+  ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
+  ["path", { d: "m9 12 2 2 4-4", key: "dzmm74" }]
+];
+const CircleCheck = createLucideIcon("circle-check", __iconNode$E);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -23846,10 +23876,11 @@ const ChevronUp = createLucideIcon("chevron-up", __iconNode$E);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$D = [
-  ["path", { d: "M21.801 10A10 10 0 1 1 17 3.335", key: "yps3ct" }],
-  ["path", { d: "m9 11 3 3L22 4", key: "1pflzl" }]
+  ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
+  ["path", { d: "M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3", key: "1u773s" }],
+  ["path", { d: "M12 17h.01", key: "p32p05" }]
 ];
-const CircleCheckBig = createLucideIcon("circle-check-big", __iconNode$D);
+const CircleHelp = createLucideIcon("circle-help", __iconNode$D);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -23857,29 +23888,6 @@ const CircleCheckBig = createLucideIcon("circle-check-big", __iconNode$D);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$C = [
-  ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
-  ["path", { d: "m9 12 2 2 4-4", key: "dzmm74" }]
-];
-const CircleCheck = createLucideIcon("circle-check", __iconNode$C);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$B = [
-  ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
-  ["path", { d: "M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3", key: "1u773s" }],
-  ["path", { d: "M12 17h.01", key: "p32p05" }]
-];
-const CircleHelp = createLucideIcon("circle-help", __iconNode$B);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$A = [
   ["rect", { width: "8", height: "4", x: "8", y: "2", rx: "1", ry: "1", key: "tgr4d6" }],
   [
     "path",
@@ -23893,25 +23901,25 @@ const __iconNode$A = [
   ["path", { d: "M8 11h.01", key: "1dfujw" }],
   ["path", { d: "M8 16h.01", key: "18s6g9" }]
 ];
-const ClipboardList = createLucideIcon("clipboard-list", __iconNode$A);
+const ClipboardList = createLucideIcon("clipboard-list", __iconNode$C);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$z = [
+const __iconNode$B = [
   ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
   ["polyline", { points: "12 6 12 12 16 14", key: "68esgv" }]
 ];
-const Clock = createLucideIcon("clock", __iconNode$z);
+const Clock = createLucideIcon("clock", __iconNode$B);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$y = [
+const __iconNode$A = [
   ["path", { d: "M12 20v2", key: "1lh1kg" }],
   ["path", { d: "M12 2v2", key: "tus03m" }],
   ["path", { d: "M17 20v2", key: "1rnc9c" }],
@@ -23927,7 +23935,31 @@ const __iconNode$y = [
   ["rect", { x: "4", y: "4", width: "16", height: "16", rx: "2", key: "1vbyd7" }],
   ["rect", { x: "8", y: "8", width: "8", height: "8", rx: "1", key: "z9xiuo" }]
 ];
-const Cpu = createLucideIcon("cpu", __iconNode$y);
+const Cpu = createLucideIcon("cpu", __iconNode$A);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$z = [
+  ["line", { x1: "12", x2: "12", y1: "2", y2: "22", key: "7eqyqh" }],
+  ["path", { d: "M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6", key: "1b0p4s" }]
+];
+const DollarSign = createLucideIcon("dollar-sign", __iconNode$z);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$y = [
+  ["path", { d: "M10 12.5 8 15l2 2.5", key: "1tg20x" }],
+  ["path", { d: "m14 12.5 2 2.5-2 2.5", key: "yinavb" }],
+  ["path", { d: "M14 2v4a2 2 0 0 0 2 2h4", key: "tnqrlb" }],
+  ["path", { d: "M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z", key: "1mlx9k" }]
+];
+const FileCode = createLucideIcon("file-code", __iconNode$y);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -23935,10 +23967,13 @@ const Cpu = createLucideIcon("cpu", __iconNode$y);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$x = [
-  ["line", { x1: "12", x2: "12", y1: "2", y2: "22", key: "7eqyqh" }],
-  ["path", { d: "M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6", key: "1b0p4s" }]
+  ["path", { d: "M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z", key: "1rqfz7" }],
+  ["path", { d: "M14 2v4a2 2 0 0 0 2 2h4", key: "tnqrlb" }],
+  ["path", { d: "M10 9H8", key: "b1mrlr" }],
+  ["path", { d: "M16 13H8", key: "t4e002" }],
+  ["path", { d: "M16 17H8", key: "z1uh3a" }]
 ];
-const DollarSign = createLucideIcon("dollar-sign", __iconNode$x);
+const FileText = createLucideIcon("file-text", __iconNode$x);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -23946,33 +23981,6 @@ const DollarSign = createLucideIcon("dollar-sign", __iconNode$x);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$w = [
-  ["path", { d: "M10 12.5 8 15l2 2.5", key: "1tg20x" }],
-  ["path", { d: "m14 12.5 2 2.5-2 2.5", key: "yinavb" }],
-  ["path", { d: "M14 2v4a2 2 0 0 0 2 2h4", key: "tnqrlb" }],
-  ["path", { d: "M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z", key: "1mlx9k" }]
-];
-const FileCode = createLucideIcon("file-code", __iconNode$w);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$v = [
-  ["path", { d: "M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z", key: "1rqfz7" }],
-  ["path", { d: "M14 2v4a2 2 0 0 0 2 2h4", key: "tnqrlb" }],
-  ["path", { d: "M10 9H8", key: "b1mrlr" }],
-  ["path", { d: "M16 13H8", key: "t4e002" }],
-  ["path", { d: "M16 17H8", key: "z1uh3a" }]
-];
-const FileText = createLucideIcon("file-text", __iconNode$v);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$u = [
   [
     "path",
     {
@@ -23983,7 +23991,33 @@ const __iconNode$u = [
   ["path", { d: "M6.453 15h11.094", key: "3shlmq" }],
   ["path", { d: "M8.5 2h7", key: "csnxdl" }]
 ];
-const FlaskConical = createLucideIcon("flask-conical", __iconNode$u);
+const FlaskConical = createLucideIcon("flask-conical", __iconNode$w);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$v = [
+  ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
+  ["path", { d: "M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20", key: "13o1zl" }],
+  ["path", { d: "M2 12h20", key: "9i4pu4" }]
+];
+const Globe = createLucideIcon("globe", __iconNode$v);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$u = [
+  ["rect", { width: "18", height: "18", x: "3", y: "3", rx: "2", key: "afitv7" }],
+  ["path", { d: "M3 9h18", key: "1pudct" }],
+  ["path", { d: "M3 15h18", key: "5xshup" }],
+  ["path", { d: "M9 3v18", key: "fh3hqa" }],
+  ["path", { d: "M15 3v18", key: "14nvp0" }]
+];
+const Grid3x3 = createLucideIcon("grid-3x3", __iconNode$u);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -23991,32 +24025,6 @@ const FlaskConical = createLucideIcon("flask-conical", __iconNode$u);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$t = [
-  ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
-  ["path", { d: "M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20", key: "13o1zl" }],
-  ["path", { d: "M2 12h20", key: "9i4pu4" }]
-];
-const Globe = createLucideIcon("globe", __iconNode$t);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$s = [
-  ["rect", { width: "18", height: "18", x: "3", y: "3", rx: "2", key: "afitv7" }],
-  ["path", { d: "M3 9h18", key: "1pudct" }],
-  ["path", { d: "M3 15h18", key: "5xshup" }],
-  ["path", { d: "M9 3v18", key: "fh3hqa" }],
-  ["path", { d: "M15 3v18", key: "14nvp0" }]
-];
-const Grid3x3 = createLucideIcon("grid-3x3", __iconNode$s);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$r = [
   ["line", { x1: "22", x2: "2", y1: "12", y2: "12", key: "1y58io" }],
   [
     "path",
@@ -24028,14 +24036,14 @@ const __iconNode$r = [
   ["line", { x1: "6", x2: "6.01", y1: "16", y2: "16", key: "sgf278" }],
   ["line", { x1: "10", x2: "10.01", y1: "16", y2: "16", key: "1l4acy" }]
 ];
-const HardDrive = createLucideIcon("hard-drive", __iconNode$r);
+const HardDrive = createLucideIcon("hard-drive", __iconNode$t);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$q = [
+const __iconNode$s = [
   ["path", { d: "M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8", key: "5wwlr5" }],
   [
     "path",
@@ -24045,14 +24053,27 @@ const __iconNode$q = [
     }
   ]
 ];
-const House = createLucideIcon("house", __iconNode$q);
+const House = createLucideIcon("house", __iconNode$s);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$p = [
+const __iconNode$r = [
+  ["path", { d: "M18 22H4a2 2 0 0 1-2-2V6", key: "pblm9e" }],
+  ["path", { d: "m22 13-1.296-1.296a2.41 2.41 0 0 0-3.408 0L11 18", key: "nf6bnh" }],
+  ["circle", { cx: "12", cy: "8", r: "2", key: "1822b1" }],
+  ["rect", { width: "16", height: "16", x: "6", y: "2", rx: "2", key: "12espp" }]
+];
+const Images = createLucideIcon("images", __iconNode$r);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$q = [
   [
     "path",
     {
@@ -24075,7 +24096,20 @@ const __iconNode$p = [
     }
   ]
 ];
-const Layers = createLucideIcon("layers", __iconNode$p);
+const Layers = createLucideIcon("layers", __iconNode$q);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$p = [
+  ["rect", { width: "7", height: "7", x: "3", y: "3", rx: "1", key: "1g98yp" }],
+  ["rect", { width: "7", height: "7", x: "14", y: "3", rx: "1", key: "6d4xhi" }],
+  ["rect", { width: "7", height: "7", x: "14", y: "14", rx: "1", key: "nxv5o0" }],
+  ["rect", { width: "7", height: "7", x: "3", y: "14", rx: "1", key: "1bb6yr" }]
+];
+const LayoutGrid = createLucideIcon("layout-grid", __iconNode$p);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24083,19 +24117,6 @@ const Layers = createLucideIcon("layers", __iconNode$p);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$o = [
-  ["rect", { width: "7", height: "7", x: "3", y: "3", rx: "1", key: "1g98yp" }],
-  ["rect", { width: "7", height: "7", x: "14", y: "3", rx: "1", key: "6d4xhi" }],
-  ["rect", { width: "7", height: "7", x: "14", y: "14", rx: "1", key: "nxv5o0" }],
-  ["rect", { width: "7", height: "7", x: "3", y: "14", rx: "1", key: "1bb6yr" }]
-];
-const LayoutGrid = createLucideIcon("layout-grid", __iconNode$o);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$n = [
   [
     "path",
     {
@@ -24106,7 +24127,18 @@ const __iconNode$n = [
   ["path", { d: "M9 18h6", key: "x1upvd" }],
   ["path", { d: "M10 22h4", key: "ceow96" }]
 ];
-const Lightbulb = createLucideIcon("lightbulb", __iconNode$n);
+const Lightbulb = createLucideIcon("lightbulb", __iconNode$o);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$n = [
+  ["path", { d: "m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7", key: "132q7q" }],
+  ["rect", { x: "2", y: "4", width: "20", height: "16", rx: "2", key: "izxlao" }]
+];
+const Mail = createLucideIcon("mail", __iconNode$n);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24114,17 +24146,6 @@ const Lightbulb = createLucideIcon("lightbulb", __iconNode$n);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$m = [
-  ["path", { d: "m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7", key: "132q7q" }],
-  ["rect", { x: "2", y: "4", width: "20", height: "16", rx: "2", key: "izxlao" }]
-];
-const Mail = createLucideIcon("mail", __iconNode$m);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$l = [
   [
     "path",
     {
@@ -24134,7 +24155,19 @@ const __iconNode$l = [
   ],
   ["circle", { cx: "12", cy: "10", r: "3", key: "ilqhr7" }]
 ];
-const MapPin = createLucideIcon("map-pin", __iconNode$l);
+const MapPin = createLucideIcon("map-pin", __iconNode$m);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$l = [
+  ["path", { d: "M4 12h16", key: "1lakjw" }],
+  ["path", { d: "M4 18h16", key: "19g7jn" }],
+  ["path", { d: "M4 6h16", key: "1o0s65" }]
+];
+const Menu = createLucideIcon("menu", __iconNode$l);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24142,11 +24175,9 @@ const MapPin = createLucideIcon("map-pin", __iconNode$l);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$k = [
-  ["path", { d: "M4 12h16", key: "1lakjw" }],
-  ["path", { d: "M4 18h16", key: "19g7jn" }],
-  ["path", { d: "M4 6h16", key: "1o0s65" }]
+  ["path", { d: "M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z", key: "1lielz" }]
 ];
-const Menu = createLucideIcon("menu", __iconNode$k);
+const MessageSquare = createLucideIcon("message-square", __iconNode$k);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24154,16 +24185,6 @@ const Menu = createLucideIcon("menu", __iconNode$k);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$j = [
-  ["path", { d: "M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z", key: "1lielz" }]
-];
-const MessageSquare = createLucideIcon("message-square", __iconNode$j);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$i = [
   ["path", { d: "M6 18h8", key: "1borvv" }],
   ["path", { d: "M3 22h18", key: "8prr45" }],
   ["path", { d: "M14 22a7 7 0 1 0 0-14h-1", key: "1jwaiy" }],
@@ -24171,14 +24192,14 @@ const __iconNode$i = [
   ["path", { d: "M9 12a2 2 0 0 1-2-2V6h6v4a2 2 0 0 1-2 2Z", key: "1bmzmy" }],
   ["path", { d: "M12 6V3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3", key: "1drr47" }]
 ];
-const Microscope = createLucideIcon("microscope", __iconNode$i);
+const Microscope = createLucideIcon("microscope", __iconNode$j);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$h = [
+const __iconNode$i = [
   [
     "path",
     {
@@ -24190,14 +24211,14 @@ const __iconNode$h = [
   ["polyline", { points: "3.29 7 12 12 20.71 7", key: "ousv84" }],
   ["path", { d: "m7.5 4.27 9 5.15", key: "1c824w" }]
 ];
-const Package = createLucideIcon("package", __iconNode$h);
+const Package = createLucideIcon("package", __iconNode$i);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$g = [
+const __iconNode$h = [
   ["path", { d: "M13.234 20.252 21 12.3", key: "1cbrk9" }],
   [
     "path",
@@ -24207,7 +24228,23 @@ const __iconNode$g = [
     }
   ]
 ];
-const Paperclip = createLucideIcon("paperclip", __iconNode$g);
+const Paperclip = createLucideIcon("paperclip", __iconNode$h);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$g = [
+  [
+    "path",
+    {
+      d: "M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384",
+      key: "9njp5v"
+    }
+  ]
+];
+const Phone = createLucideIcon("phone", __iconNode$g);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24218,22 +24255,6 @@ const __iconNode$f = [
   [
     "path",
     {
-      d: "M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384",
-      key: "9njp5v"
-    }
-  ]
-];
-const Phone = createLucideIcon("phone", __iconNode$f);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$e = [
-  [
-    "path",
-    {
       d: "M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2",
       key: "143wyd"
     }
@@ -24241,14 +24262,14 @@ const __iconNode$e = [
   ["path", { d: "M6 9V3a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v6", key: "1itne7" }],
   ["rect", { x: "6", y: "14", width: "12", height: "8", rx: "1", key: "1ue0tg" }]
 ];
-const Printer = createLucideIcon("printer", __iconNode$e);
+const Printer = createLucideIcon("printer", __iconNode$f);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$d = [
+const __iconNode$e = [
   [
     "path",
     {
@@ -24261,7 +24282,21 @@ const __iconNode$d = [
   ["path", { d: "m8.5 6.5 2-2", key: "vc6u1g" }],
   ["path", { d: "m17.5 15.5 2-2", key: "wo5hmg" }]
 ];
-const Ruler = createLucideIcon("ruler", __iconNode$d);
+const Ruler = createLucideIcon("ruler", __iconNode$e);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$d = [
+  ["path", { d: "M3 7V5a2 2 0 0 1 2-2h2", key: "aa7l1z" }],
+  ["path", { d: "M17 3h2a2 2 0 0 1 2 2v2", key: "4qcy5o" }],
+  ["path", { d: "M21 17v2a2 2 0 0 1-2 2h-2", key: "6vwrx8" }],
+  ["path", { d: "M7 21H5a2 2 0 0 1-2-2v-2", key: "ioqczr" }],
+  ["path", { d: "M7 12h10", key: "b7w52i" }]
+];
+const ScanLine = createLucideIcon("scan-line", __iconNode$d);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24269,20 +24304,6 @@ const Ruler = createLucideIcon("ruler", __iconNode$d);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$c = [
-  ["path", { d: "M3 7V5a2 2 0 0 1 2-2h2", key: "aa7l1z" }],
-  ["path", { d: "M17 3h2a2 2 0 0 1 2 2v2", key: "4qcy5o" }],
-  ["path", { d: "M21 17v2a2 2 0 0 1-2 2h-2", key: "6vwrx8" }],
-  ["path", { d: "M7 21H5a2 2 0 0 1-2-2v-2", key: "ioqczr" }],
-  ["path", { d: "M7 12h10", key: "b7w52i" }]
-];
-const ScanLine = createLucideIcon("scan-line", __iconNode$c);
-/**
- * @license lucide-react v0.511.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$b = [
   [
     "path",
     {
@@ -24292,7 +24313,20 @@ const __iconNode$b = [
   ],
   ["path", { d: "m21.854 2.147-10.94 10.939", key: "12cjpa" }]
 ];
-const Send = createLucideIcon("send", __iconNode$b);
+const Send = createLucideIcon("send", __iconNode$c);
+/**
+ * @license lucide-react v0.511.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$b = [
+  ["path", { d: "M20 7h-9", key: "3s1dr2" }],
+  ["path", { d: "M14 17H5", key: "gfn3mx" }],
+  ["circle", { cx: "17", cy: "17", r: "3", key: "18b49y" }],
+  ["circle", { cx: "7", cy: "7", r: "3", key: "dfmy0x" }]
+];
+const Settings2 = createLucideIcon("settings-2", __iconNode$b);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24300,12 +24334,16 @@ const Send = createLucideIcon("send", __iconNode$b);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$a = [
-  ["path", { d: "M20 7h-9", key: "3s1dr2" }],
-  ["path", { d: "M14 17H5", key: "gfn3mx" }],
-  ["circle", { cx: "17", cy: "17", r: "3", key: "18b49y" }],
-  ["circle", { cx: "7", cy: "7", r: "3", key: "dfmy0x" }]
+  [
+    "path",
+    {
+      d: "M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z",
+      key: "1qme2f"
+    }
+  ],
+  ["circle", { cx: "12", cy: "12", r: "3", key: "1v7zrd" }]
 ];
-const Settings2 = createLucideIcon("settings-2", __iconNode$a);
+const Settings = createLucideIcon("settings", __iconNode$a);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24316,13 +24354,13 @@ const __iconNode$9 = [
   [
     "path",
     {
-      d: "M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z",
-      key: "1qme2f"
+      d: "M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",
+      key: "oel41y"
     }
   ],
-  ["circle", { cx: "12", cy: "12", r: "3", key: "1v7zrd" }]
+  ["path", { d: "m9 12 2 2 4-4", key: "dzmm74" }]
 ];
-const Settings = createLucideIcon("settings", __iconNode$9);
+const ShieldCheck = createLucideIcon("shield-check", __iconNode$9);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24336,10 +24374,9 @@ const __iconNode$8 = [
       d: "M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",
       key: "oel41y"
     }
-  ],
-  ["path", { d: "m9 12 2 2 4-4", key: "dzmm74" }]
+  ]
 ];
-const ShieldCheck = createLucideIcon("shield-check", __iconNode$8);
+const Shield = createLucideIcon("shield", __iconNode$8);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24350,12 +24387,12 @@ const __iconNode$7 = [
   [
     "path",
     {
-      d: "M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",
-      key: "oel41y"
+      d: "M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z",
+      key: "r04s7s"
     }
   ]
 ];
-const Shield = createLucideIcon("shield", __iconNode$7);
+const Star = createLucideIcon("star", __iconNode$7);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24363,15 +24400,11 @@ const Shield = createLucideIcon("shield", __iconNode$7);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$6 = [
-  [
-    "path",
-    {
-      d: "M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z",
-      key: "r04s7s"
-    }
-  ]
+  ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
+  ["circle", { cx: "12", cy: "12", r: "6", key: "1vlfrh" }],
+  ["circle", { cx: "12", cy: "12", r: "2", key: "1c9p78" }]
 ];
-const Star = createLucideIcon("star", __iconNode$6);
+const Target = createLucideIcon("target", __iconNode$6);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24379,11 +24412,11 @@ const Star = createLucideIcon("star", __iconNode$6);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$5 = [
-  ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
-  ["circle", { cx: "12", cy: "12", r: "6", key: "1vlfrh" }],
-  ["circle", { cx: "12", cy: "12", r: "2", key: "1c9p78" }]
+  ["path", { d: "M12 3v12", key: "1x0j5s" }],
+  ["path", { d: "m17 8-5-5-5 5", key: "7q97r8" }],
+  ["path", { d: "M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4", key: "ih7n3h" }]
 ];
-const Target = createLucideIcon("target", __iconNode$5);
+const Upload = createLucideIcon("upload", __iconNode$5);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24391,11 +24424,12 @@ const Target = createLucideIcon("target", __iconNode$5);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$4 = [
-  ["path", { d: "M12 3v12", key: "1x0j5s" }],
-  ["path", { d: "m17 8-5-5-5 5", key: "7q97r8" }],
-  ["path", { d: "M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4", key: "ih7n3h" }]
+  ["path", { d: "M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2", key: "1yyitq" }],
+  ["path", { d: "M16 3.128a4 4 0 0 1 0 7.744", key: "16gr8j" }],
+  ["path", { d: "M22 21v-2a4 4 0 0 0-3-3.87", key: "kshegd" }],
+  ["circle", { cx: "9", cy: "7", r: "4", key: "nufk8" }]
 ];
-const Upload = createLucideIcon("upload", __iconNode$4);
+const Users = createLucideIcon("users", __iconNode$4);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24403,12 +24437,10 @@ const Upload = createLucideIcon("upload", __iconNode$4);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$3 = [
-  ["path", { d: "M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2", key: "1yyitq" }],
-  ["path", { d: "M16 3.128a4 4 0 0 1 0 7.744", key: "16gr8j" }],
-  ["path", { d: "M22 21v-2a4 4 0 0 0-3-3.87", key: "kshegd" }],
-  ["circle", { cx: "9", cy: "7", r: "4", key: "nufk8" }]
+  ["path", { d: "M18 6 6 18", key: "1bl5f8" }],
+  ["path", { d: "m6 6 12 12", key: "d8bk6v" }]
 ];
-const Users = createLucideIcon("users", __iconNode$3);
+const X = createLucideIcon("x", __iconNode$3);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24416,10 +24448,15 @@ const Users = createLucideIcon("users", __iconNode$3);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$2 = [
-  ["path", { d: "M18 6 6 18", key: "1bl5f8" }],
-  ["path", { d: "m6 6 12 12", key: "d8bk6v" }]
+  [
+    "path",
+    {
+      d: "M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z",
+      key: "cbrjhi"
+    }
+  ]
 ];
-const X = createLucideIcon("x", __iconNode$2);
+const Wrench = createLucideIcon("wrench", __iconNode$2);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24430,12 +24467,12 @@ const __iconNode$1 = [
   [
     "path",
     {
-      d: "M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z",
-      key: "cbrjhi"
+      d: "M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",
+      key: "1xq2db"
     }
   ]
 ];
-const Wrench = createLucideIcon("wrench", __iconNode$1);
+const Zap = createLucideIcon("zap", __iconNode$1);
 /**
  * @license lucide-react v0.511.0 - ISC
  *
@@ -24443,20 +24480,18 @@ const Wrench = createLucideIcon("wrench", __iconNode$1);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode = [
-  [
-    "path",
-    {
-      d: "M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",
-      key: "1xq2db"
-    }
-  ]
+  ["circle", { cx: "11", cy: "11", r: "8", key: "4ej97u" }],
+  ["line", { x1: "21", x2: "16.65", y1: "21", y2: "16.65", key: "13gj7c" }],
+  ["line", { x1: "11", x2: "11", y1: "8", y2: "14", key: "1vmskp" }],
+  ["line", { x1: "8", x2: "14", y1: "11", y2: "11", key: "durymu" }]
 ];
-const Zap = createLucideIcon("zap", __iconNode);
+const ZoomIn = createLucideIcon("zoom-in", __iconNode);
 const NAV_LINKS = [
   { label: "Home", href: "/" },
   { label: "About", href: "/about" },
   { label: "Products", href: "/products" },
   { label: "Services", href: "/services" },
+  { label: "Gallery", href: "/gallery" },
   { label: "Contact", href: "/contact" }
 ];
 const hostname = typeof window !== "undefined" ? window.location.hostname : "";
@@ -34427,6 +34462,175 @@ function ContactPage() {
     )
   ] });
 }
+function Lightbox({
+  images,
+  currentIndex,
+  onClose,
+  onPrev,
+  onNext
+}) {
+  const current = images[currentIndex];
+  const handleKey = reactExports.useCallback(
+    (e) => {
+      if (e.key === "Escape") onClose();
+      if (e.key === "ArrowLeft") onPrev();
+      if (e.key === "ArrowRight") onNext();
+    },
+    [onClose, onPrev, onNext]
+  );
+  reactExports.useEffect(() => {
+    document.addEventListener("keydown", handleKey);
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.removeEventListener("keydown", handleKey);
+      document.body.style.overflow = "";
+    };
+  }, [handleKey]);
+  if (!current) return null;
+  return /* @__PURE__ */ jsxRuntimeExports.jsxs(
+    "dialog",
+    {
+      open: true,
+      className: "fixed inset-0 z-[200] flex items-center justify-center m-0 p-0 max-w-none max-h-none w-full h-full border-0",
+      style: { backgroundColor: "rgba(0,0,0,0.92)" },
+      "data-ocid": "gallery.lightbox",
+      "aria-label": "Image viewer",
+      children: [
+        /* @__PURE__ */ jsxRuntimeExports.jsx(
+          "button",
+          {
+            type: "button",
+            className: "absolute inset-0 w-full h-full border-0 cursor-default",
+            onClick: onClose,
+            "aria-label": "Close lightbox"
+          }
+        ),
+        /* @__PURE__ */ jsxRuntimeExports.jsx(
+          "button",
+          {
+            type: "button",
+            className: "absolute top-4 right-4 z-10 p-2 rounded-full text-white transition-colors",
+            style: { backgroundColor: "rgba(255,255,255,0.12)" },
+            onClick: onClose,
+            "data-ocid": "gallery.lightbox.close_button",
+            "aria-label": "Close",
+            onMouseEnter: (e) => {
+              e.currentTarget.style.backgroundColor = "rgba(255,255,255,0.22)";
+            },
+            onMouseLeave: (e) => {
+              e.currentTarget.style.backgroundColor = "rgba(255,255,255,0.12)";
+            },
+            children: /* @__PURE__ */ jsxRuntimeExports.jsx(X, { className: "h-5 w-5" })
+          }
+        ),
+        images.length > 1 && /* @__PURE__ */ jsxRuntimeExports.jsx(
+          "button",
+          {
+            type: "button",
+            className: "absolute left-4 top-1/2 -translate-y-1/2 z-10 p-3 rounded-full text-white transition-colors",
+            style: { backgroundColor: "rgba(255,255,255,0.12)" },
+            onClick: (e) => {
+              e.stopPropagation();
+              onPrev();
+            },
+            "data-ocid": "gallery.lightbox.pagination_prev",
+            "aria-label": "Previous image",
+            onMouseEnter: (e) => {
+              e.currentTarget.style.backgroundColor = "oklch(0.52 0.23 253 / 0.5)";
+            },
+            onMouseLeave: (e) => {
+              e.currentTarget.style.backgroundColor = "rgba(255,255,255,0.12)";
+            },
+            children: /* @__PURE__ */ jsxRuntimeExports.jsx(ChevronLeft, { className: "h-6 w-6" })
+          }
+        ),
+        images.length > 1 && /* @__PURE__ */ jsxRuntimeExports.jsx(
+          "button",
+          {
+            type: "button",
+            className: "absolute right-4 top-1/2 -translate-y-1/2 z-10 p-3 rounded-full text-white transition-colors",
+            style: { backgroundColor: "rgba(255,255,255,0.12)" },
+            onClick: (e) => {
+              e.stopPropagation();
+              onNext();
+            },
+            "data-ocid": "gallery.lightbox.pagination_next",
+            "aria-label": "Next image",
+            onMouseEnter: (e) => {
+              e.currentTarget.style.backgroundColor = "oklch(0.52 0.23 253 / 0.5)";
+            },
+            onMouseLeave: (e) => {
+              e.currentTarget.style.backgroundColor = "rgba(255,255,255,0.12)";
+            },
+            children: /* @__PURE__ */ jsxRuntimeExports.jsx(ChevronRight, { className: "h-6 w-6" })
+          }
+        ),
+        /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "relative z-10 flex flex-col items-center max-w-5xl w-full mx-16 pointer-events-none", children: [
+          /* @__PURE__ */ jsxRuntimeExports.jsx(
+            "img",
+            {
+              src: current.src,
+              alt: current.caption,
+              className: "max-h-[75vh] max-w-full object-contain rounded-lg shadow-2xl",
+              style: { boxShadow: "0 25px 80px rgba(0,0,0,0.6)" }
+            }
+          ),
+          current.caption && /* @__PURE__ */ jsxRuntimeExports.jsx(
+            "p",
+            {
+              className: "mt-4 text-sm text-center px-6",
+              style: { color: "rgba(255,255,255,0.65)" },
+              children: current.caption
+            }
+          ),
+          images.length > 1 && /* @__PURE__ */ jsxRuntimeExports.jsxs(
+            "p",
+            {
+              className: "mt-2 text-xs font-mono",
+              style: { color: "rgba(255,255,255,0.40)" },
+              children: [
+                currentIndex + 1,
+                " / ",
+                images.length
+              ]
+            }
+          )
+        ] }),
+        images.length > 1 && /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "absolute bottom-6 left-1/2 -translate-x-1/2 flex gap-2 z-10 pointer-events-auto", children: images.map((img, i) => /* @__PURE__ */ jsxRuntimeExports.jsx(
+          "button",
+          {
+            type: "button",
+            className: "w-12 h-9 rounded overflow-hidden border-2 transition-all",
+            style: {
+              borderColor: i === currentIndex ? "oklch(0.52 0.23 253)" : "transparent",
+              opacity: i === currentIndex ? 1 : 0.5
+            },
+            onClick: (e) => {
+              e.stopPropagation();
+              const diff = i - currentIndex;
+              if (diff > 0) {
+                for (let j = 0; j < diff; j++) onNext();
+              } else {
+                for (let j = 0; j < Math.abs(diff); j++) onPrev();
+              }
+            },
+            "aria-label": `Go to image ${i + 1}`,
+            "data-ocid": `gallery.lightbox.thumbnail.${i + 1}`,
+            children: /* @__PURE__ */ jsxRuntimeExports.jsx(
+              "img",
+              {
+                src: img.src,
+                alt: img.caption,
+                className: "w-full h-full object-cover"
+              }
+            )
+          },
+          img.src
+        )) })
+      ]
+    }
+  );
+}
 const products = [
   {
     id: "p1",
@@ -34449,7 +34653,13 @@ const products = [
       Jacket: "Single / double / half-pipe jacket"
     },
     certifications: ["WHO-GMP", "USFDA", "ASME BPE", "cGMP"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/smv1/800/600",
+      "https://picsum.photos/seed/smv2/800/600",
+      "https://picsum.photos/seed/smv3/800/600",
+      "https://picsum.photos/seed/smv4/800/600"
+    ]
   },
   {
     id: "p2",
@@ -34472,7 +34682,13 @@ const products = [
       Connection: "Sanitary tri-clamp fittings"
     },
     certifications: ["WHO-GMP", "PED 2014/68/EU", "cGMP"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/sv1/800/600",
+      "https://picsum.photos/seed/sv2/800/600",
+      "https://picsum.photos/seed/sv3/800/600",
+      "https://picsum.photos/seed/sv4/800/600"
+    ]
   },
   {
     id: "p3",
@@ -34495,7 +34711,13 @@ const products = [
       Compliance: "ASME VIII, WHO-GMP, ATEX"
     },
     certifications: ["ASME VIII", "WHO-GMP", "ATEX", "PED"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/rx1/800/600",
+      "https://picsum.photos/seed/rx2/800/600",
+      "https://picsum.photos/seed/rx3/800/600",
+      "https://picsum.photos/seed/rx4/800/600"
+    ]
   },
   {
     id: "p4",
@@ -34518,7 +34740,13 @@ const products = [
       Compliance: "WHO-GMP, cGMP"
     },
     certifications: ["WHO-GMP", "cGMP"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/tpk1/800/600",
+      "https://picsum.photos/seed/tpk2/800/600",
+      "https://picsum.photos/seed/tpk3/800/600",
+      "https://picsum.photos/seed/tpk4/800/600"
+    ]
   },
   {
     id: "p5",
@@ -34541,7 +34769,13 @@ const products = [
       Compliance: "WHO-GMP, ASME, GMP Annex 1"
     },
     certifications: ["WHO-GMP", "ASME", "GMP Annex 1"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/rvd1/800/600",
+      "https://picsum.photos/seed/rvd2/800/600",
+      "https://picsum.photos/seed/rvd3/800/600",
+      "https://picsum.photos/seed/rvd4/800/600"
+    ]
   },
   {
     id: "p6",
@@ -34564,7 +34798,13 @@ const products = [
       Compliance: "WHO-GMP, USFDA, GEA standards"
     },
     certifications: ["WHO-GMP", "USFDA"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/vcd1/800/600",
+      "https://picsum.photos/seed/vcd2/800/600",
+      "https://picsum.photos/seed/vcd3/800/600",
+      "https://picsum.photos/seed/vcd4/800/600"
+    ]
   },
   {
     id: "p7",
@@ -34587,7 +34827,13 @@ const products = [
       Compliance: "WHO-GMP, ASME"
     },
     certifications: ["WHO-GMP", "ASME"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/spf1/800/600",
+      "https://picsum.photos/seed/spf2/800/600",
+      "https://picsum.photos/seed/spf3/800/600",
+      "https://picsum.photos/seed/spf4/800/600"
+    ]
   },
   {
     id: "p8",
@@ -34610,7 +34856,13 @@ const products = [
       Compliance: "WHO-GMP, cGMP"
     },
     certifications: ["WHO-GMP", "cGMP"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/vbs1/800/600",
+      "https://picsum.photos/seed/vbs2/800/600",
+      "https://picsum.photos/seed/vbs3/800/600",
+      "https://picsum.photos/seed/vbs4/800/600"
+    ]
   },
   {
     id: "p9",
@@ -34633,7 +34885,13 @@ const products = [
       Compliance: "WHO-GMP, cGMP, 21 CFR Part 11"
     },
     certifications: ["WHO-GMP", "cGMP", "21 CFR Part 11"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/rbl1/800/600",
+      "https://picsum.photos/seed/rbl2/800/600",
+      "https://picsum.photos/seed/rbl3/800/600",
+      "https://picsum.photos/seed/rbl4/800/600"
+    ]
   },
   {
     id: "p10",
@@ -34656,7 +34914,13 @@ const products = [
       Compliance: "WHO-GMP, USFDA"
     },
     certifications: ["WHO-GMP", "USFDA"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/vtd1/800/600",
+      "https://picsum.photos/seed/vtd2/800/600",
+      "https://picsum.photos/seed/vtd3/800/600",
+      "https://picsum.photos/seed/vtd4/800/600"
+    ]
   },
   {
     id: "p11",
@@ -34679,7 +34943,13 @@ const products = [
       Compliance: "WHO-GMP, USFDA, CE"
     },
     certifications: ["WHO-GMP", "USFDA", "CE", "ISO 9001:2015"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/lfm1/800/600",
+      "https://picsum.photos/seed/lfm2/800/600",
+      "https://picsum.photos/seed/lfm3/800/600",
+      "https://picsum.photos/seed/lfm4/800/600"
+    ]
   },
   {
     id: "p12",
@@ -34702,7 +34972,13 @@ const products = [
       Compliance: "WHO-GMP, GMP Annex 1"
     },
     certifications: ["WHO-GMP", "GMP Annex 1", "CE"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/pgf1/800/600",
+      "https://picsum.photos/seed/pgf2/800/600",
+      "https://picsum.photos/seed/pgf3/800/600",
+      "https://picsum.photos/seed/pgf4/800/600"
+    ]
   },
   {
     id: "p13",
@@ -34725,7 +35001,13 @@ const products = [
       Compliance: "WHO-GMP, USFDA, ISO 9001:2015"
     },
     certifications: ["WHO-GMP", "USFDA", "ISO 9001:2015"],
-    image: ""
+    image: "",
+    images: [
+      "https://picsum.photos/seed/rtf1/800/600",
+      "https://picsum.photos/seed/rtf2/800/600",
+      "https://picsum.photos/seed/rtf3/800/600",
+      "https://picsum.photos/seed/rtf4/800/600"
+    ]
   }
 ];
 function getProductBySlug(slug) {
@@ -34750,7 +35032,13 @@ const services = [
     deliveryTime: "3–7 business days",
     fileFormats: ["STEP", "IGES", "DXF", "DWG", "PDF", "SLDPRT"],
     software: ["SolidWorks", "CATIA V5", "Autodesk Fusion 360", "AutoCAD"],
-    standards: ["ISO 2768", "ASME Y14.5", "DIN", "BS 8888"]
+    standards: ["ISO 2768", "ASME Y14.5", "DIN", "BS 8888"],
+    images: [
+      "https://picsum.photos/seed/cad1/800/600",
+      "https://picsum.photos/seed/cad2/800/600",
+      "https://picsum.photos/seed/cad3/800/600",
+      "https://picsum.photos/seed/cad4/800/600"
+    ]
   },
   {
     id: "s2",
@@ -34770,7 +35058,13 @@ const services = [
     deliveryTime: "2–5 business days",
     fileFormats: ["STL", "OBJ", "3MF", "STEP"],
     software: ["SolidWorks", "Cura", "PrusaSlicer", "Chitubox"],
-    standards: ["ISO 17296", "ASTM F2792"]
+    standards: ["ISO 17296", "ASTM F2792"],
+    images: [
+      "https://picsum.photos/seed/prnt1/800/600",
+      "https://picsum.photos/seed/prnt2/800/600",
+      "https://picsum.photos/seed/prnt3/800/600",
+      "https://picsum.photos/seed/prnt4/800/600"
+    ]
   },
   {
     id: "s3",
@@ -34790,7 +35084,13 @@ const services = [
     deliveryTime: "3–6 business days",
     fileFormats: ["DXF", "DWG", "STEP", "PDF", "SLDPRT"],
     software: ["SolidWorks", "SolidEdge", "AutoCAD"],
-    standards: ["ISO 2768", "DIN 6935", "ASME Y14.5"]
+    standards: ["ISO 2768", "DIN 6935", "ASME Y14.5"],
+    images: [
+      "https://picsum.photos/seed/smt1/800/600",
+      "https://picsum.photos/seed/smt2/800/600",
+      "https://picsum.photos/seed/smt3/800/600",
+      "https://picsum.photos/seed/smt4/800/600"
+    ]
   },
   {
     id: "s4",
@@ -34810,7 +35110,13 @@ const services = [
     deliveryTime: "2–8 weeks (project-dependent)",
     fileFormats: ["STEP", "PDF", "DXF", "IGES", "Rendering files"],
     software: ["SolidWorks", "CATIA V5", "KeyShot", "Adobe CC"],
-    standards: ["ISO 9001", "DFM best practices", "IEC standards"]
+    standards: ["ISO 9001", "DFM best practices", "IEC standards"],
+    images: [
+      "https://picsum.photos/seed/npd1/800/600",
+      "https://picsum.photos/seed/npd2/800/600",
+      "https://picsum.photos/seed/npd3/800/600",
+      "https://picsum.photos/seed/npd4/800/600"
+    ]
   },
   {
     id: "s5",
@@ -34830,7 +35136,13 @@ const services = [
     deliveryTime: "5–10 business days",
     fileFormats: ["STEP", "IGES", "STL", "Point cloud data", "PDF report"],
     software: ["Geomagic", "SolidWorks", "CATIA", "Polyworks"],
-    standards: ["ISO 10360", "ASME Y14.45"]
+    standards: ["ISO 10360", "ASME Y14.45"],
+    images: [
+      "https://picsum.photos/seed/re1/800/600",
+      "https://picsum.photos/seed/re2/800/600",
+      "https://picsum.photos/seed/re3/800/600",
+      "https://picsum.photos/seed/re4/800/600"
+    ]
   },
   {
     id: "s6",
@@ -34850,7 +35162,13 @@ const services = [
     deliveryTime: "5–14 business days",
     fileFormats: ["PDF report", "STEP", "H5 result files"],
     software: ["ANSYS", "Abaqus", "SolidWorks Simulation", "OpenFOAM"],
-    standards: ["ASME BPVC VIII", "PD 5500", "EN 13445", "ISO 31000"]
+    standards: ["ASME BPVC VIII", "PD 5500", "EN 13445", "ISO 31000"],
+    images: [
+      "https://picsum.photos/seed/fea1/800/600",
+      "https://picsum.photos/seed/fea2/800/600",
+      "https://picsum.photos/seed/fea3/800/600",
+      "https://picsum.photos/seed/fea4/800/600"
+    ]
   },
   {
     id: "s7",
@@ -34870,11 +35188,311 @@ const services = [
     deliveryTime: "3–7 business days",
     fileFormats: ["PDF", "DXF", "DWG", "Excel inspection reports"],
     software: ["AutoCAD", "SolidWorks", "GD&T Advisor"],
-    standards: ["ASME Y14.5-2018", "ISO 1101", "ISO 2768", "ISO 8015"]
+    standards: ["ASME Y14.5-2018", "ISO 1101", "ISO 2768", "ISO 8015"],
+    images: [
+      "https://picsum.photos/seed/gdt1/800/600",
+      "https://picsum.photos/seed/gdt2/800/600",
+      "https://picsum.photos/seed/gdt3/800/600",
+      "https://picsum.photos/seed/gdt4/800/600"
+    ]
   }
 ];
 function getServiceBySlug(slug) {
   return services.find((s) => s.slug === slug);
+}
+const FILTERS = [
+  { label: "All", value: "all", icon: LayoutGrid },
+  { label: "Products", value: "products", icon: Package },
+  { label: "Services", value: "services", icon: Wrench }
+];
+function GalleryPage() {
+  const [filter, setFilter] = reactExports.useState("all");
+  const [lightboxIndex, setLightboxIndex] = reactExports.useState(null);
+  const allItems = reactExports.useMemo(() => {
+    const productItems = products.flatMap(
+      (p) => (p.images ?? []).map((src, i) => ({
+        src,
+        caption: `${p.name} — View ${i + 1}`,
+        category: p.category,
+        type: "product",
+        slug: p.slug,
+        index: i
+      }))
+    );
+    const serviceItems = services.flatMap(
+      (s) => (s.images ?? []).map((src, i) => ({
+        src,
+        caption: `${s.name} — Project ${i + 1}`,
+        category: s.name,
+        type: "service",
+        slug: s.slug,
+        index: i
+      }))
+    );
+    return [...productItems, ...serviceItems];
+  }, []);
+  const filteredItems = reactExports.useMemo(() => {
+    if (filter === "all") return allItems;
+    return allItems.filter(
+      (item) => item.type === filter.slice(0, -1)
+    );
+  }, [filter, allItems]);
+  const openLightbox = (i) => setLightboxIndex(i);
+  const closeLightbox = () => setLightboxIndex(null);
+  const prevImage = () => setLightboxIndex(
+    (prev) => prev !== null ? (prev - 1 + filteredItems.length) % filteredItems.length : 0
+  );
+  const nextImage = () => setLightboxIndex(
+    (prev) => prev !== null ? (prev + 1) % filteredItems.length : 0
+  );
+  const lightboxImages = filteredItems.map((item) => ({
+    src: item.src,
+    caption: item.caption
+  }));
+  return /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "min-h-screen", style: { backgroundColor: "white" }, children: [
+    /* @__PURE__ */ jsxRuntimeExports.jsxs(
+      "section",
+      {
+        className: "relative py-16 overflow-hidden",
+        style: {
+          background: "linear-gradient(135deg, oklch(0.05 0.025 253) 0%, oklch(0.12 0.08 253) 60%, oklch(0.08 0.04 253) 100%)"
+        },
+        "data-ocid": "gallery.hero",
+        children: [
+          /* @__PURE__ */ jsxRuntimeExports.jsx(
+            "div",
+            {
+              className: "absolute inset-0 opacity-[0.05]",
+              style: {
+                backgroundImage: "linear-gradient(oklch(0.7 0.2 253) 1px, transparent 1px), linear-gradient(90deg, oklch(0.7 0.2 253) 1px, transparent 1px)",
+                backgroundSize: "48px 48px"
+              }
+            }
+          ),
+          /* @__PURE__ */ jsxRuntimeExports.jsx(
+            "div",
+            {
+              className: "absolute -top-20 -right-20 w-80 h-80 rounded-full opacity-15 blur-3xl",
+              style: { backgroundColor: "oklch(0.52 0.23 253)" }
+            }
+          ),
+          /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8", children: [
+            /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-center gap-2 mb-3", children: [
+              /* @__PURE__ */ jsxRuntimeExports.jsx(
+                Images,
+                {
+                  className: "h-5 w-5",
+                  style: { color: "oklch(0.72 0.20 253)" }
+                }
+              ),
+              /* @__PURE__ */ jsxRuntimeExports.jsx(
+                "p",
+                {
+                  className: "text-xs font-bold uppercase tracking-widest",
+                  style: { color: "oklch(0.62 0.18 253)" },
+                  children: "Visual Portfolio"
+                }
+              )
+            ] }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx(
+              "h1",
+              {
+                className: "font-display font-black text-white mb-3",
+                style: { fontSize: "clamp(2rem, 4vw, 3rem)", lineHeight: 1.1 },
+                children: "Project Gallery"
+              }
+            ),
+            /* @__PURE__ */ jsxRuntimeExports.jsxs(
+              "p",
+              {
+                className: "text-base max-w-xl",
+                style: { color: "rgba(255,255,255,0.60)" },
+                children: [
+                  "Browse our complete portfolio of pharmaceutical equipment and mechanical design projects — ",
+                  allItems.length,
+                  " images across",
+                  " ",
+                  products.length + services.length,
+                  " categories."
+                ]
+              }
+            )
+          ] })
+        ]
+      }
+    ),
+    /* @__PURE__ */ jsxRuntimeExports.jsx(
+      "section",
+      {
+        className: "sticky z-30 border-b",
+        style: {
+          top: "64px",
+          backgroundColor: "white",
+          borderColor: "oklch(0.90 0.01 253)"
+        },
+        children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "flex items-center gap-1 py-3 overflow-x-auto no-scrollbar", children: FILTERS.map(({ label, value, icon: FilterIcon }) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
+          "button",
+          {
+            type: "button",
+            onClick: () => setFilter(value),
+            "data-ocid": `gallery.filter.${value}`,
+            className: "flex items-center gap-1.5 px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-200 whitespace-nowrap",
+            style: {
+              backgroundColor: filter === value ? "oklch(0.42 0.19 253)" : "oklch(0.96 0.01 253)",
+              color: filter === value ? "white" : "oklch(0.30 0.03 253)"
+            },
+            children: [
+              /* @__PURE__ */ jsxRuntimeExports.jsx(FilterIcon, { className: "h-3.5 w-3.5" }),
+              label,
+              /* @__PURE__ */ jsxRuntimeExports.jsx(
+                "span",
+                {
+                  className: "text-xs px-1.5 py-0.5 rounded-full font-mono",
+                  style: {
+                    backgroundColor: filter === value ? "rgba(255,255,255,0.22)" : "oklch(0.88 0.02 253)",
+                    color: filter === value ? "white" : "oklch(0.45 0.03 253)"
+                  },
+                  children: value === "all" ? allItems.length : allItems.filter((x) => x.type === value.slice(0, -1)).length
+                }
+              )
+            ]
+          },
+          value
+        )) }) })
+      }
+    ),
+    /* @__PURE__ */ jsxRuntimeExports.jsx(
+      "section",
+      {
+        className: "py-10 lg:py-14",
+        style: { backgroundColor: "oklch(0.97 0.005 253)" },
+        children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8", children: filteredItems.length === 0 ? /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "text-center py-20", "data-ocid": "gallery.empty_state", children: [
+          /* @__PURE__ */ jsxRuntimeExports.jsx(
+            Images,
+            {
+              className: "h-12 w-12 mx-auto mb-4",
+              style: { color: "oklch(0.70 0.05 253)" }
+            }
+          ),
+          /* @__PURE__ */ jsxRuntimeExports.jsx("p", { style: { color: "oklch(0.45 0.02 253)" }, children: "No images in this category." })
+        ] }) : /* @__PURE__ */ jsxRuntimeExports.jsx(
+          "div",
+          {
+            className: "columns-2 sm:columns-3 lg:columns-4 gap-3 space-y-3",
+            "data-ocid": "gallery.list",
+            children: filteredItems.map((item, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
+              "button",
+              {
+                type: "button",
+                className: "group relative w-full overflow-hidden rounded-xl break-inside-avoid focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 block",
+                onClick: () => openLightbox(i),
+                "data-ocid": `gallery.item.${i + 1}`,
+                "aria-label": `View ${item.caption}`,
+                children: [
+                  /* @__PURE__ */ jsxRuntimeExports.jsx(
+                    "img",
+                    {
+                      src: item.src,
+                      alt: item.caption,
+                      className: "w-full object-cover transition-transform duration-500 group-hover:scale-105",
+                      loading: "lazy"
+                    }
+                  ),
+                  /* @__PURE__ */ jsxRuntimeExports.jsxs(
+                    "div",
+                    {
+                      className: "absolute inset-0 flex flex-col justify-end p-3 opacity-0 group-hover:opacity-100 transition-opacity duration-300",
+                      style: {
+                        background: "linear-gradient(to top, oklch(0.05 0.025 253 / 0.90) 0%, transparent 60%)"
+                      },
+                      children: [
+                        /* @__PURE__ */ jsxRuntimeExports.jsx(
+                          "span",
+                          {
+                            className: "inline-block px-2 py-0.5 rounded text-xs font-semibold mb-1 self-start",
+                            style: {
+                              backgroundColor: item.type === "product" ? "oklch(0.42 0.19 253)" : "oklch(0.28 0.14 253)",
+                              color: "white"
+                            },
+                            children: item.type === "product" ? "Product" : "Service"
+                          }
+                        ),
+                        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-white text-xs font-medium leading-tight line-clamp-2", children: item.caption }),
+                        item.type === "product" ? /* @__PURE__ */ jsxRuntimeExports.jsx(
+                          Link,
+                          {
+                            to: "/products/$productSlug",
+                            params: { productSlug: item.slug },
+                            className: "mt-1.5 text-xs underline transition-colors",
+                            style: { color: "oklch(0.72 0.20 253)" },
+                            onClick: (e) => e.stopPropagation(),
+                            "data-ocid": `gallery.item.${i + 1}.link`,
+                            children: "View Product →"
+                          }
+                        ) : /* @__PURE__ */ jsxRuntimeExports.jsx(
+                          Link,
+                          {
+                            to: "/services/$serviceSlug",
+                            params: { serviceSlug: item.slug },
+                            className: "mt-1.5 text-xs underline transition-colors",
+                            style: { color: "oklch(0.72 0.20 253)" },
+                            onClick: (e) => e.stopPropagation(),
+                            "data-ocid": `gallery.item.${i + 1}.link`,
+                            children: "View Service →"
+                          }
+                        )
+                      ]
+                    }
+                  )
+                ]
+              },
+              `${item.type}-${item.slug}-${item.index}`
+            ))
+          }
+        ) })
+      }
+    ),
+    /* @__PURE__ */ jsxRuntimeExports.jsx(
+      "section",
+      {
+        className: "py-14 text-center",
+        style: {
+          background: "linear-gradient(135deg, oklch(0.08 0.04 253) 0%, oklch(0.15 0.10 253) 100%)"
+        },
+        children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "max-w-2xl mx-auto px-4", children: [
+          /* @__PURE__ */ jsxRuntimeExports.jsx("h2", { className: "font-display font-bold text-2xl text-white mb-3", children: "Interested in Our Work?" }),
+          /* @__PURE__ */ jsxRuntimeExports.jsx(
+            "p",
+            {
+              className: "text-sm mb-6",
+              style: { color: "rgba(255,255,255,0.60)" },
+              children: "Contact our team to discuss your project requirements and get a customised quote."
+            }
+          ),
+          /* @__PURE__ */ jsxRuntimeExports.jsx(
+            Link,
+            {
+              to: "/contact",
+              "data-ocid": "gallery.cta.primary_button",
+              className: "inline-flex items-center gap-2 px-6 py-3 rounded-xl text-sm font-bold text-white transition-opacity hover:opacity-90",
+              style: { backgroundColor: "oklch(0.52 0.23 253)" },
+              children: "Get in Touch"
+            }
+          )
+        ] })
+      }
+    ),
+    lightboxIndex !== null && /* @__PURE__ */ jsxRuntimeExports.jsx(
+      Lightbox,
+      {
+        images: lightboxImages,
+        currentIndex: lightboxIndex,
+        onClose: closeLightbox,
+        onPrev: prevImage,
+        onNext: nextImage
+      }
+    )
+  ] });
 }
 const HERO_SLIDES = [
   {
@@ -35946,6 +36564,154 @@ function ServiceIconSVG({ name }) {
       );
   }
 }
+function ImageGallery({
+  images,
+  title = "Project Gallery",
+  subtitle,
+  variant = "light"
+}) {
+  const [lightboxIndex, setLightboxIndex] = reactExports.useState(null);
+  const isDark = variant === "dark";
+  const openLightbox = (i) => setLightboxIndex(i);
+  const closeLightbox = () => setLightboxIndex(null);
+  const prevImage = () => setLightboxIndex(
+    (prev) => prev !== null ? (prev - 1 + images.length) % images.length : 0
+  );
+  const nextImage = () => setLightboxIndex(
+    (prev) => prev !== null ? (prev + 1) % images.length : 0
+  );
+  if (!images || images.length === 0) return null;
+  return /* @__PURE__ */ jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { children: [
+    /* @__PURE__ */ jsxRuntimeExports.jsx(
+      "section",
+      {
+        className: "py-14 lg:py-18",
+        style: {
+          backgroundColor: isDark ? "oklch(0.07 0.03 253)" : "oklch(0.97 0.005 253)"
+        },
+        "aria-label": "Image gallery",
+        "data-ocid": "gallery.section",
+        children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8", children: [
+          /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "mb-8", children: [
+            /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-center gap-2.5 mb-2", children: [
+              /* @__PURE__ */ jsxRuntimeExports.jsx(
+                "div",
+                {
+                  className: "flex items-center justify-center w-8 h-8 rounded-lg",
+                  style: {
+                    backgroundColor: isDark ? "oklch(0.52 0.23 253 / 0.20)" : "oklch(0.42 0.19 253 / 0.12)"
+                  },
+                  children: /* @__PURE__ */ jsxRuntimeExports.jsx(
+                    Images,
+                    {
+                      className: "h-4 w-4",
+                      style: {
+                        color: isDark ? "oklch(0.72 0.20 253)" : "oklch(0.42 0.19 253)"
+                      }
+                    }
+                  )
+                }
+              ),
+              /* @__PURE__ */ jsxRuntimeExports.jsx(
+                "h2",
+                {
+                  className: "font-display font-bold text-xl",
+                  style: {
+                    color: isDark ? "white" : "oklch(0.08 0.025 253)"
+                  },
+                  children: title
+                }
+              )
+            ] }),
+            subtitle && /* @__PURE__ */ jsxRuntimeExports.jsx(
+              "p",
+              {
+                className: "text-sm",
+                style: {
+                  color: isDark ? "rgba(255,255,255,0.50)" : "oklch(0.45 0.02 253)"
+                },
+                children: subtitle
+              }
+            )
+          ] }),
+          /* @__PURE__ */ jsxRuntimeExports.jsx(
+            "div",
+            {
+              className: "grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3",
+              "data-ocid": "gallery.list",
+              children: images.map((img, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
+                "button",
+                {
+                  type: "button",
+                  className: "group relative overflow-hidden rounded-xl aspect-[4/3] focus-visible:outline-none focus-visible:ring-2",
+                  style: {
+                    focusRingColor: "oklch(0.52 0.23 253)"
+                  },
+                  onClick: () => openLightbox(i),
+                  "data-ocid": `gallery.item.${i + 1}`,
+                  "aria-label": `View ${img.caption}`,
+                  children: [
+                    /* @__PURE__ */ jsxRuntimeExports.jsx(
+                      "img",
+                      {
+                        src: img.src,
+                        alt: img.caption,
+                        className: "w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                      }
+                    ),
+                    /* @__PURE__ */ jsxRuntimeExports.jsxs(
+                      "div",
+                      {
+                        className: "absolute inset-0 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300",
+                        style: { backgroundColor: "oklch(0.08 0.04 253 / 0.75)" },
+                        children: [
+                          /* @__PURE__ */ jsxRuntimeExports.jsx(ZoomIn, { className: "h-7 w-7 text-white mb-1.5" }),
+                          /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "text-xs text-white font-medium px-2 text-center line-clamp-2", children: img.caption })
+                        ]
+                      }
+                    ),
+                    /* @__PURE__ */ jsxRuntimeExports.jsx(
+                      "div",
+                      {
+                        className: "absolute top-2 left-2 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold",
+                        style: {
+                          backgroundColor: "oklch(0.42 0.19 253 / 0.90)",
+                          color: "white"
+                        },
+                        children: i + 1
+                      }
+                    )
+                  ]
+                },
+                img.src
+              ))
+            }
+          ),
+          /* @__PURE__ */ jsxRuntimeExports.jsx(
+            "p",
+            {
+              className: "text-center text-xs mt-5",
+              style: {
+                color: isDark ? "rgba(255,255,255,0.35)" : "oklch(0.55 0.02 253)"
+              },
+              children: "Click any image to view full size"
+            }
+          )
+        ] })
+      }
+    ),
+    lightboxIndex !== null && /* @__PURE__ */ jsxRuntimeExports.jsx(
+      Lightbox,
+      {
+        images,
+        currentIndex: lightboxIndex,
+        onClose: closeLightbox,
+        onPrev: prevImage,
+        onNext: nextImage
+      }
+    )
+  ] });
+}
 const CERT_COLORS = {
   "WHO-GMP": "oklch(0.40 0.18 253)",
   USFDA: "oklch(0.35 0.16 245)",
@@ -36433,6 +37199,17 @@ function ProductDetailPage() {
             app
           )) })
         ] })
+      }
+    ),
+    product.images && product.images.length > 0 && /* @__PURE__ */ jsxRuntimeExports.jsx(
+      ImageGallery,
+      {
+        images: product.images.map((src, i) => ({
+          src,
+          caption: `${product.name} — View ${i + 1}`
+        })),
+        title: "Product Gallery",
+        subtitle: "Click any image to view full size"
       }
     ),
     /* @__PURE__ */ jsxRuntimeExports.jsxs(
@@ -37766,6 +38543,18 @@ function ServiceDetailPage() {
         ] })
       }
     ),
+    service.images && service.images.length > 0 && /* @__PURE__ */ jsxRuntimeExports.jsx(
+      ImageGallery,
+      {
+        images: service.images.map((src, i) => ({
+          src,
+          caption: `${service.name} — Project ${i + 1}`
+        })),
+        title: "Project Gallery",
+        subtitle: "Sample project images for this service",
+        variant: "dark"
+      }
+    ),
     /* @__PURE__ */ jsxRuntimeExports.jsx(
       "section",
       {
@@ -38862,6 +39651,11 @@ const serviceDetailRoute = createRoute({
   path: "/services/$serviceSlug",
   component: ServiceDetailPage
 });
+const galleryRoute = createRoute({
+  getParentRoute: () => rootRoute,
+  path: "/gallery",
+  component: GalleryPage
+});
 const contactRoute = createRoute({
   getParentRoute: () => rootRoute,
   path: "/contact",
@@ -38874,6 +39668,7 @@ const routeTree = rootRoute.addChildren([
   productDetailRoute,
   servicesRoute,
   serviceDetailRoute,
+  galleryRoute,
   contactRoute
 ]);
 const router = createRouter({ routeTree });

@@ -24,6 +24,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "USFDA", "ASME BPE", "cGMP"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/smv1/800/600",
+      "https://picsum.photos/seed/smv2/800/600",
+      "https://picsum.photos/seed/smv3/800/600",
+      "https://picsum.photos/seed/smv4/800/600",
+    ],
   },
   {
     id: "p2",
@@ -48,6 +54,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "PED 2014/68/EU", "cGMP"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/sv1/800/600",
+      "https://picsum.photos/seed/sv2/800/600",
+      "https://picsum.photos/seed/sv3/800/600",
+      "https://picsum.photos/seed/sv4/800/600",
+    ],
   },
   {
     id: "p3",
@@ -72,6 +84,12 @@ export const products: Product[] = [
     },
     certifications: ["ASME VIII", "WHO-GMP", "ATEX", "PED"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/rx1/800/600",
+      "https://picsum.photos/seed/rx2/800/600",
+      "https://picsum.photos/seed/rx3/800/600",
+      "https://picsum.photos/seed/rx4/800/600",
+    ],
   },
   {
     id: "p4",
@@ -96,6 +114,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "cGMP"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/tpk1/800/600",
+      "https://picsum.photos/seed/tpk2/800/600",
+      "https://picsum.photos/seed/tpk3/800/600",
+      "https://picsum.photos/seed/tpk4/800/600",
+    ],
   },
   {
     id: "p5",
@@ -120,6 +144,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "ASME", "GMP Annex 1"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/rvd1/800/600",
+      "https://picsum.photos/seed/rvd2/800/600",
+      "https://picsum.photos/seed/rvd3/800/600",
+      "https://picsum.photos/seed/rvd4/800/600",
+    ],
   },
   {
     id: "p6",
@@ -144,6 +174,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "USFDA"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/vcd1/800/600",
+      "https://picsum.photos/seed/vcd2/800/600",
+      "https://picsum.photos/seed/vcd3/800/600",
+      "https://picsum.photos/seed/vcd4/800/600",
+    ],
   },
   {
     id: "p7",
@@ -168,6 +204,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "ASME"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/spf1/800/600",
+      "https://picsum.photos/seed/spf2/800/600",
+      "https://picsum.photos/seed/spf3/800/600",
+      "https://picsum.photos/seed/spf4/800/600",
+    ],
   },
   {
     id: "p8",
@@ -192,6 +234,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "cGMP"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/vbs1/800/600",
+      "https://picsum.photos/seed/vbs2/800/600",
+      "https://picsum.photos/seed/vbs3/800/600",
+      "https://picsum.photos/seed/vbs4/800/600",
+    ],
   },
   {
     id: "p9",
@@ -216,6 +264,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "cGMP", "21 CFR Part 11"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/rbl1/800/600",
+      "https://picsum.photos/seed/rbl2/800/600",
+      "https://picsum.photos/seed/rbl3/800/600",
+      "https://picsum.photos/seed/rbl4/800/600",
+    ],
   },
   {
     id: "p10",
@@ -240,6 +294,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "USFDA"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/vtd1/800/600",
+      "https://picsum.photos/seed/vtd2/800/600",
+      "https://picsum.photos/seed/vtd3/800/600",
+      "https://picsum.photos/seed/vtd4/800/600",
+    ],
   },
   {
     id: "p11",
@@ -264,6 +324,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "USFDA", "CE", "ISO 9001:2015"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/lfm1/800/600",
+      "https://picsum.photos/seed/lfm2/800/600",
+      "https://picsum.photos/seed/lfm3/800/600",
+      "https://picsum.photos/seed/lfm4/800/600",
+    ],
   },
   {
     id: "p12",
@@ -288,6 +354,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "GMP Annex 1", "CE"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/pgf1/800/600",
+      "https://picsum.photos/seed/pgf2/800/600",
+      "https://picsum.photos/seed/pgf3/800/600",
+      "https://picsum.photos/seed/pgf4/800/600",
+    ],
   },
   {
     id: "p13",
@@ -312,6 +384,12 @@ export const products: Product[] = [
     },
     certifications: ["WHO-GMP", "USFDA", "ISO 9001:2015"],
     image: "",
+    images: [
+      "https://picsum.photos/seed/rtf1/800/600",
+      "https://picsum.photos/seed/rtf2/800/600",
+      "https://picsum.photos/seed/rtf3/800/600",
+      "https://picsum.photos/seed/rtf4/800/600",
+    ],
   },
 ];
 

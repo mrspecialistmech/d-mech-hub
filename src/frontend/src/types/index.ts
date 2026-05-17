@@ -8,6 +8,7 @@ export interface Product {
   specifications: Record<string, string>;
   certifications: string[];
   image: string;
+  images: string[];
 }
 
 export interface Service {
@@ -22,6 +23,7 @@ export interface Service {
   fileFormats: string[];
   software: string[];
   standards: string[];
+  images: string[];
 }
 
 export interface Project {

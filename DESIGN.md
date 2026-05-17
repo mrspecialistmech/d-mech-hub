@@ -31,6 +31,10 @@
 ## Patterns
 
 - **Certification Badges**: Teal outline, uppercase, 0.75rem font, inline-flex alignment for WHO-GMP, USFDA, ISO standards.
+- **Gallery Cards**: 2–3 column grid (mobile-first), shadow-card with hover lift, gradient overlay on hover (dark near-black), white caption text.
+- **Lightbox Modal**: Dark overlay (95% opacity), backdrop blur, centered image (80vh max-height), white prev/next arrows, fade-in entry.
+- **Gallery Filter Pills**: Light background, blue border, active state fills with secondary blue + white text. Used in combined gallery page.
+- **Carousel Navigation**: Dark semi-transparent buttons (prev/left, next/right), positioned absolute, hover to secondary blue.
 - **Shadow Hierarchy**: shadow-card (subtle), shadow-card-hover (elevated), shadow-elevated (emphasis).
 - **Type Hierarchy**: Display bold for section headings, body 500 for card titles, body 400 for content.
 - **Card Grid**: 2–4 columns (mobile-first responsive), consistent spacing (1rem gutters).
@@ -51,4 +55,4 @@
 
 ## Signature Detail
 
-Hexagonal geometric accent echoing D MECH HUB logo; teal certification badges as visual trust markers for pharma/chemical compliance standards (WHO-GMP, USFDA, ISO). Sharp, minimal, unforgettable.
+Hexagonal geometric accent echoing D MECH HUB logo; teal certification badges as visual trust markers for pharma/chemical compliance standards (WHO-GMP, USFDA, ISO). Image galleries emphasize precision photography and industrial craftsmanship. Sharp, minimal, unforgettable.

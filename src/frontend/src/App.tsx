@@ -6,6 +6,7 @@ import {
 import Layout from "./components/Layout";
 import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
+import GalleryPage from "./pages/GalleryPage";
 import HomePage from "./pages/HomePage";
 import ProductDetailPage from "./pages/ProductDetailPage";
 import ProductsPage from "./pages/ProductsPage";
@@ -76,6 +77,12 @@ const serviceDetailRoute = createRoute({
   component: ServiceDetailPage,
 });
 
+const galleryRoute = createRoute({
+  getParentRoute: () => rootRoute,
+  path: "/gallery",
+  component: GalleryPage,
+});
+
 const contactRoute = createRoute({
   getParentRoute: () => rootRoute,
   path: "/contact",
@@ -90,6 +97,7 @@ const routeTree = rootRoute.addChildren([
   productDetailRoute,
   servicesRoute,
   serviceDetailRoute,
+  galleryRoute,
   contactRoute,
 ]);
 

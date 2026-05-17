@@ -9,6 +9,7 @@ import {
   LayoutGrid,
   Settings2,
 } from "lucide-react";
+import ImageGallery from "../components/ImageGallery";
 import { getProductBySlug } from "../data/products";
 
 const CERT_COLORS: Record<string, string> = {
@@ -433,6 +434,18 @@ export default function ProductDetailPage() {
           </div>
         </div>
       </section>
+
+      {/* ── Product Gallery ──────────────────────────────────────────── */}
+      {product.images && product.images.length > 0 && (
+        <ImageGallery
+          images={product.images.map((src, i) => ({
+            src,
+            caption: `${product.name} — View ${i + 1}`,
+          }))}
+          title="Product Gallery"
+          subtitle="Click any image to view full size"
+        />
+      )}
 
       {/* ── CTA Banner ────────────────────────────────────────────────── */}
       <section
