@@ -3,8 +3,8 @@ import { forwardRef } from "react";
 
 const highlights = [
   {
-    icon: CheckCircle2,
-    text: "ISO 9001:2015 Certified Quality Management System",
+    /*icon: CheckCircle2,
+    text: "ISO 9001:2015 Certified Quality Management System",*/
   },
   { icon: CheckCircle2, text: "Strict ASME Y14.5 GD&T Standards Compliance" },
   { icon: Cpu, text: "SolidWorks, CATIA V5/V6, AutoCAD, ANSYS Experts" },
@@ -75,8 +75,8 @@ const AboutSection = forwardRef<HTMLElement>((_, ref) => {
             <div className="grid grid-cols-3 gap-4">
               {[
                 { value: "2022", label: "Est." },
-                { value: "500+", label: "Projects" },
-                { value: "15+", label: "Countries" },
+                { value: "20+", label: "Projects" },
+                { value: "3+", label: "Countries" },
               ].map((m) => (
                 <div
                   key={m.label}
@@ -155,7 +155,7 @@ const AboutSection = forwardRef<HTMLElement>((_, ref) => {
                     color: "white",
                   }}
                 >
-                  ISO
+                /*  ISO
                 </div>
                 <div>
                   <div
@@ -168,7 +168,7 @@ const AboutSection = forwardRef<HTMLElement>((_, ref) => {
                     className="text-xs mt-0.5"
                     style={{ color: "rgba(255,255,255,0.5)" }}
                   >
-                    Quality Management System
+                    Quality Management System*/
                   </div>
                 </div>
               </div>
