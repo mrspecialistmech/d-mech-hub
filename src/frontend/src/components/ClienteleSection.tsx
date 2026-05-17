@@ -2,31 +2,31 @@ import useEmblaCarousel from "embla-carousel-react";
 import { Building2, ChevronLeft, ChevronRight } from "lucide-react";
 import { useCallback, useEffect } from "react";
 
-const WHATSAPP_NUMBER = "919876543210";
+const WHATSAPP_NUMBER = "+918591343467";
 
 const clients = [
   {
-    name: "Tata Motors",
-    industry: "Automotive",
-    initials: "TM",
+    name: "Balaji Industries",
+    industry: "Pharma & Food Equipments",
+    /*initials: "BI",*/
     color: "#1565C0",
   },
   {
-    name: "Mahindra Engineering",
-    industry: "Auto & Machinery",
-    initials: "ME",
+    name: "IEP Process Solution",
+    industry: "Oil & Gas",
+    /*initials: "ME",*/
     color: "#1B5E20",
   },
   {
-    name: "Bajaj Auto",
+    name: "Om Sai Pharma Equipments",
     industry: "Automotive",
-    initials: "BA",
+    /*initials: "BA",*/
     color: "#E65100",
   },
   {
-    name: "L&T Heavy Engineering",
-    industry: "Construction & EPC",
-    initials: "LT",
+    name: "IQ3 Connect",
+    industry: "Design & Training Services",
+    /* initials: "LT",*/
     color: "#880E4F",
   },
   {
