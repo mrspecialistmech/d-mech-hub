@@ -155,9 +155,9 @@ const AboutSection = forwardRef<HTMLElement>((_, ref) => {
                     color: "white",
                   }}
                 >
-                /*  ISO
+                /*  ISO*/
                 </div>
-                <div>
+                {/*<div>
                   <div
                     className="text-xs font-semibold"
                     style={{ color: "white" }}
@@ -170,7 +170,7 @@ const AboutSection = forwardRef<HTMLElement>((_, ref) => {
                   >
                     Quality Management System*/
                   </div>
-                </div>
+                </div>*/}
               </div>
             </div>
           </div>
