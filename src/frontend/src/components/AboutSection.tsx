@@ -7,9 +7,9 @@ const highlights = [
     text: "ISO 9001:2015 Certified Quality Management System",*/
   },
   { icon: CheckCircle2, text: "Strict ASME Y14.5 GD&T Standards Compliance" },
-  { icon: Cpu, text: "SolidWorks, CATIA V5/V6, AutoCAD, ANSYS Experts" },
-  { icon: Globe, text: "Serving 10+ industries across 15+ countries" },
-  { icon: Users, text: "Team of 50+ certified mechanical engineers" },
+  { icon: Cpu, text: "SolidWorks, Inventor, AutoCAD, Creo, ANSYS Experts" },
+  { icon: Globe, text: "Serving 10+ industries across 3+ countries" },
+  {/* icon: Users, text: "Team of 50+ certified mechanical engineers" */},
   { icon: CheckCircle2, text: "NDA protected, secure IP handling" },
 ];
 
